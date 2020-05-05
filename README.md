@@ -11,10 +11,12 @@
   - media coding
     - coding book
     - daily news frequency:  
-      - NYT 
-      - Washington Post, 
-      - USA Today
-    - TV:  
+      - print news
+      - online news articles [media cloud](https://mediacloud.org/)
+       - NYT 
+       - Washington Post, 
+       - USA Today
+    - TV:  [TV news archives](https://archive.org/details/tv)
       - Fox (it seems database is opoen to people with an account; free?); 
       - CNN
       - NBC (https://www.nbcnewsarchivesxpress.com/search?q=coronavirus&contenttype=)  How does this work?  It can't be only ~500 by April!
