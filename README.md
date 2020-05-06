@@ -12,7 +12,7 @@
   - media coding
     - coding book
     - daily news frequency:  
-      - print news
+      - print news [e.g., media cloud on COVID-19](https://mediacloud.org/news/2020/4/3/coverage-of-covid-19-and-political-partisanship-comparing-across-nations)
       - online news articles [media cloud](https://mediacloud.org/)
        - NYT 
        - Washington Post, 
