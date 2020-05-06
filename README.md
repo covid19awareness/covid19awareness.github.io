@@ -7,6 +7,7 @@
     - questionnaire:  the most difficult/challenging part; the most enjoyable/happy part; advice for authorities; what will do to better prepare for a pandenmic like this in the future; possiblly about domestic violence?
     - recruitment poster
     - targets:  school kids, health givers, seniors, disadvantaged groups by economic standard
+    - recruitment:  library, suppermarket (Fortinos, Food Basics, and No Frills), LCBO, Homedepot (?), Starbucks, Tim Hortons
     
   - media coding
     - coding book
