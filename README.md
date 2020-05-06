@@ -4,7 +4,7 @@
     - statistic plan
     
   - impact focus group
-    - questionnaire:  the most difficult/challenging part; the most enjoyable/happy part; advice for authorities; what will do to better prepare for a pandenmic like this in the future; 
+    - questionnaire:  the most difficult/challenging part; the most enjoyable/happy part; advice for authorities; what will do to better prepare for a pandenmic like this in the future; possiblly about domestic violence?
     - recruitment poster
     - targets:  school kids, health givers, seniors, disadvantaged groups by economic standard
     
