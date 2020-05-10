@@ -3,6 +3,15 @@
   - awareness survey
     - statistic plan
     
+# Research topics:
+
+What really matters?  What's the goal?
+
+- 
+# Data collection and obstacles:
+
+COVID-19 data is everywhere online.  It is almost impossible (or not necessary?) to go through each single text.  So how will we collect data in a manageable and sensible way to get what we want to study?  By topic of theme, by event (e.g., when USA carried out social distancing and lockdown)
+
   - impact focus group
     - questionnaire:  the most difficult/challenging part; the most enjoyable/happy part; advice for authorities; what will do to better prepare for a pandenmic like this in the future; possiblly about domestic violence?
     - recruitment poster
