@@ -1,4 +1,6 @@
 ## This is the covid19awareness github.io page
+## It is INACTIVE
+## Because weebly
 
 current: target
 -include target.mk
